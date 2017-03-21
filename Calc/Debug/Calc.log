@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\programing\c++\random projects\calculatorconsole\calc\calc\main.cpp(13): warning C4018: '<': signed/unsigned mismatch
+d:\programing\c++\random projects\calculatorconsole\calc\calc\main.cpp(35): warning C4018: '<=': signed/unsigned mismatch
+d:\programing\c++\random projects\calculatorconsole\calc\calc\main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\programing\c++\random projects\calculatorconsole\calc\calc\main.cpp(136): warning C4018: '<': signed/unsigned mismatch
+d:\programing\c++\random projects\calculatorconsole\calc\calc\main.cpp(138): warning C4018: '<': signed/unsigned mismatch
+d:\programing\c++\random projects\calculatorconsole\calc\calc\main.cpp(141): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Calc.vcxproj -> D:\PROGRAMING\C++\Random Projects\CalculatorConsole\Calc\Debug\Calc.exe
+  Calc.vcxproj -> D:\PROGRAMING\C++\Random Projects\CalculatorConsole\Calc\Debug\Calc.pdb (Full PDB)
